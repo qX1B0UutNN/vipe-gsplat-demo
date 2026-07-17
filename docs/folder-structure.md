@@ -1,4 +1,4 @@
-## Expected Folder structure
+## Expected Folder Structure
 ```
 .
 ├── data
@@ -9,32 +9,33 @@
 │   │   └── Frame sequence downscaled by x4 factor
 │   │  
 │   └── zavod70-x4-downscale.mp4
-│       └── Frame sequnce converted into .mp4
+│       └── Frame sequence converted into .mp4
 │  
 ├── docs
 │   ├── how-to-run.md
 │   ├── folder-structure.md
+│   ├── results.md
 │   └── install.md
 │  
 ├── ext
 │   ├── gsplat
-│   │   └── Gsplat repo
+│   │   └── gsplat repo
 │   │  
 │   └── vipe
-│       └── Vipe repo
+│       └── VIPE repo
 │  
 ├── results
 │   ├── v1
 │   ├── ...
 │   └── v3
 │       ├── gsplat
-│       │   └── Gspalt outputs for run v3.
+│       │   └── gsplat outputs for run v3.
 │       │  
 │       └── vipe
 │           ├── colmap_format
-│           │   └── Vipe output converted into COLMAP format.
+│           │   └── VIPE output converted into COLMAP format.
 │           │  
-│           └── Vipe outputs for run v3
+│           └── VIPE outputs for run v3
 │  
 ├── scripts
 │   ├── Custom scripts folder.
@@ -42,6 +43,6 @@
 │   ├── downscale_images.py
 │   └── frames_to_video.py
 │  
-├── readme.md
+├── README.md
 └── requirements.txt
 ```
