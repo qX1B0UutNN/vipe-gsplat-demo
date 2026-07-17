@@ -1,6 +1,8 @@
 # VIPE Gaussian Splatting Demo
 
-![example](./figs/example.gif)
+<p align="center">
+  <img src="./figs/example.gif" alt="example">
+</p>
 
 - [How to install](./docs/install.md)
 - [Expected Folder structure](./docs/folder-structure.md)
