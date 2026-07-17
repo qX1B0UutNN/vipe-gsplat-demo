@@ -82,3 +82,7 @@
       --ckpt "results/$RUN_VER/gsplat/ckpts/ckpt_29999_rank0.pt"
   ```
 
+- Export gaussian splatting to PLY
+  ```bash
+  python ext/gsplat/examples/export_to_ply.py "results/$RUN_VER/gsplat/ckpts/ckpt_29999_rank0.pt" "results/$RUN_VER/gsplat/ply/ckpt_29999_rank0.ply"
+  ```
