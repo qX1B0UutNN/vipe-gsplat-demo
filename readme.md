@@ -1,7 +1,7 @@
 # VIPE Gaussian Splatting Demo
 
 <p align="center">
-  <img src="./figs/example.gif" alt="example">
+  <img src="./figs/example.gif" alt="example" width="98%">
 </p>
 
 - [How to install](./docs/install.md)
