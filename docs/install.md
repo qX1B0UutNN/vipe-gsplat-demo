@@ -10,16 +10,16 @@ Code was tested in such environment:
 Installation steps:
 - Clone repo
   ```
-git clone --recurse-submodules https://github.com/qX1B0UutNN/vipe-gsplat-demo.git
+  git clone --recurse-submodules https://github.com/qX1B0UutNN/vipe-gsplat-demo.git
   ```
 
 - Install dependencies from requirement file.
   ```
-pip install -r requirements.txt
+  pip install -r requirements.txt
   ```
 
 - Install vipe and gspalt from submodules separately
   ```
-python -m pip install -e ./ext/vipe
-python -m pip install -e ./ext/gsplat
+  python -m pip install -e ./ext/vipe
+  python -m pip install -e ./ext/gsplat
   ```
