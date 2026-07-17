@@ -2,7 +2,8 @@
 .AGENTS.md
 
 # Full data folder, except test samples
-data/
+data/*
+!data/.gitkeep
 
 # Results
 results/*
