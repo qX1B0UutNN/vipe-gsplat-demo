@@ -1,0 +1,6 @@
+[submodule "ext/vipe"]
+	path = ext/vipe
+	url = https://github.com/qX1B0UutNN/vipe.git
+[submodule "ext/gsplat"]
+	path = ext/gsplat
+	url = https://github.com/qX1B0UutNN/gsplat.git
